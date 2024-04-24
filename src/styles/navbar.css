@@ -1,0 +1,42 @@
+.navbar{
+    padding: 0;
+    background-color: black !important;
+}
+.active{
+    color:white;
+}
+.nav-crescent{
+    color: #a0345e!important;
+}
+.nav-eclipse{
+    color: #4ea5b4!important;
+}
+.navbar-toggler{
+    color: white!important;
+}
+.navbar-toggler-icon{
+    color: white!important;
+}
+.nav-link{
+    color: white!important;
+}
+.navbar-text{
+    color: white!important;
+}
+.nav-logo{
+    width: 7rem;
+    padding-top: 1.5rem;
+}
+.nav-cart{
+    width: 3.5rem
+}
+.cart-number{
+    color: white;
+    font-size: 1.1rem;
+    background-color: #a0345e;
+    padding: 5px 10px;
+    border-radius: 50%;
+}
+.nav-cart-container{
+    margin-right: 4rem;
+}

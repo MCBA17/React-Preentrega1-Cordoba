@@ -1,0 +1,14 @@
+h1{
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10rem;
+}
+.title-crescent{
+    color: #a0345e!important;
+}
+.title-eclipse{
+    color: #4ea5b4!important;
+}
